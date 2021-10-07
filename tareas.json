@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "ponerme",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "parcial",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "estudiar",
+        "estado": "hecho"
+    },
+    {
+        "titulo": "lavar",
+        "estado": "pendiente"
+    }
+]
